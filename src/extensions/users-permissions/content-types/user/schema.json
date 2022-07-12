@@ -73,7 +73,7 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::direccion.direccion",
-      "inversedBy": "users_permissions_user"
+      "inversedBy": "user"
     }
   }
 }
